@@ -16,7 +16,7 @@ print(type(d))
 #how to sccses the value
 for value in s:
     print(value)
-
+                     
 
 
 
