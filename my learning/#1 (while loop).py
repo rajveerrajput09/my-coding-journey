@@ -8,7 +8,7 @@ while x<=5:#here is conditon it cheak everytime that condition is true or false
 else:
     print("the loop closes")
     
-#now here iscode that print the number in desending manner 5 to 1
+#now here is code that print the number in desending manner 5 to 1
     
    i=5
 while i>0:
